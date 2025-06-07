@@ -1,6 +1,7 @@
 # AutoDodgeAlgorithm
 
 **AutoDodgeAlgorithm** is a simple and dynamic algorithm designed to create a bot that automatically dodges bullets in 2D top-down perspective games.
+
 **This algorithm was developed using Unity version 6000.1.5f1.**
 
 ---
