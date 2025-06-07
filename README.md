@@ -2,8 +2,6 @@
 
 **AutoDodgeAlgorithm** is a simple and dynamic algorithm designed to create a bot that automatically dodges bullets in 2D top-down perspective games.
 
-**This algorithm was developed using Unity version 6000.1.5f1.**
-
 ---
 
 ## Description
@@ -19,7 +17,14 @@ Projectiles add danger weights not only at their current positions but also at f
 
 Each frame, the algorithm selects the safest area — a group of cells where the player can fit — and smoothly moves the player to the center of that area.
 
-**All algorithm settings can be adjusted in the GameObject named `AutoDodgeAlgorithm`.**
+**All algorithm settings can be adjusted in the GameObject named `AutoDodgeAlgorithm`.**  
+**This algorithm was developed using Unity version 6000.1.5f1.**
+
+You can watch a demo of the algorithm in action here:  
+🔗 https://youtu.be/BBk1qUSVQ5g
+
+And here is a result of 15 minutes of continuous algorithm work (screenshot):  
+🖼️ https://ibb.co/cVgtGtQ
 
 ---
 
